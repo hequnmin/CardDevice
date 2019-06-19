@@ -1,4 +1,7 @@
-﻿using System;
+﻿// 加入git管理，遵循gitflow.
+// 2019-06-19 Min
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
