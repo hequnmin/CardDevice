@@ -1,0 +1,6 @@
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\bin\x64\Debug\CardDeviceService.exe
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\bin\x64\Debug\CardDeviceService.pdb
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\obj\x64\Debug\CardDeviceService.ProjectInstaller.resources
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\obj\x64\Debug\CardDeviceService.csproj.GenerateResource.Cache
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\obj\x64\Debug\CardDeviceService.exe
+D:\WorkSpace\Studio\CardDevice\CardDevice\CardDeviceService\CardDeviceService\obj\x64\Debug\CardDeviceService.pdb

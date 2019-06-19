@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeviceUI", "CardDeviceUI\CardDeviceUI\CardDeviceUI.csproj", "{B0159F8A-EBBA-426F-8170-7F30D2510CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeviceService", "CardDeviceService\CardDeviceService\CardDeviceService.csproj", "{AD6D24CA-9DF6-473E-87C3-DD00743003BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Debug|x64.ActiveCfg = Debug|x64
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Debug|x64.Build.0 = Debug|x64
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Debug|x86.ActiveCfg = Debug|x86
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Debug|x86.Build.0 = Debug|x86
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Release|x64.ActiveCfg = Release|x64
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Release|x64.Build.0 = Release|x64
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Release|x86.ActiveCfg = Release|x86
+		{B0159F8A-EBBA-426F-8170-7F30D2510CF3}.Release|x86.Build.0 = Release|x86
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Debug|x64.ActiveCfg = Debug|x64
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Debug|x64.Build.0 = Debug|x64
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Debug|x86.ActiveCfg = Debug|x86
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Debug|x86.Build.0 = Debug|x86
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Release|x64.ActiveCfg = Release|x64
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Release|x64.Build.0 = Release|x64
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Release|x86.ActiveCfg = Release|x86
+		{AD6D24CA-9DF6-473E-87C3-DD00743003BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
